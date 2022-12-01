@@ -1,6 +1,6 @@
 # Bi-FRN
 
-Code relaese for 'Bi-Directional Feature Reconstruction Network for Fine-grained Few-shot Image Classification'.
+Code relaese for [Bi-Directional Feature Reconstruction Network for Fine-grained Few-shot Image Classification](https://arxiv.org/abs/2211.17161).
 
 ## Code environment
 
