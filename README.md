@@ -44,3 +44,10 @@ The official link of CUB-200-2011 is [here](http://www.vision.caltech.edu/datase
 ## References
 
 Thanks to  [Davis](https://github.com/Tsingularity/FRN), [Phil](https://github.com/lucidrains/vit-pytorch) and  [Yassine](https://github.com/yassouali/SCL), for the preliminary implementations.
+
+## Contact
+
+Thanks for your attention!
+If you have any suggestion or question, you can leave a message here or contact us directly:
+
+- spraisewu@gmail.com
