@@ -50,4 +50,4 @@ Thanks to  [Davis](https://github.com/Tsingularity/FRN), [Phil](https://github.c
 Thanks for your attention!
 If you have any suggestion or question, you can leave a message here or contact us directly:
 
-- spraisewu@gmail.com
+- jijie@lut.edu.cn
